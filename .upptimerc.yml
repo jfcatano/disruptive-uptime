@@ -11,9 +11,12 @@ sites:
     url: https://lar.disruptiveinfotech.com/
   - name: Mesadoko - API
     url: https://apimesadoko.disruptiveinfotech.com/api/categories
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Mesadoko - Website
+    url: https://mesadoko.com/
+    #port: 80
+
+    #check: "tcp-ping"
+    #ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
