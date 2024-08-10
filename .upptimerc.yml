@@ -10,7 +10,7 @@ sites:
   - name: Liga Antioqueña de Rugby - Website
     url: https://lar.disruptiveinfotech.com/
   - name: Mesadoko - API
-    url: https://apimesadoko.disruptiveinfotech.com/api/users
+    url: https://apimesadoko.disruptiveinfotech.com/api/categories
     port: 80
     check: "tcp-ping"
     ipv6: true
@@ -19,7 +19,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.disrtuptiveinfotech.com
-  # baseUrl: /your-repo-name
+  baseUrl: /disruptive-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**DisruptiveIT**, creando soluciones tecnológicas eficientes para todos los sistemas."
