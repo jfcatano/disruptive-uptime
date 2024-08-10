@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 212,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 218,
+    "timeDay": 218,
+    "timeWeek": 218,
+    "timeMonth": 218,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 251,
+    "timeDay": 251,
+    "timeWeek": 251,
+    "timeMonth": 251,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 206,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "time": 235,
+    "timeDay": 235,
+    "timeWeek": 235,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {}
   },
   {
@@ -58,19 +58,39 @@
     "url": "https://apimesadoko.disruptiveinfotech.com/api/categories",
     "icon": "https://icons.duckduckgo.com/ip3/apimesadoko.disruptiveinfotech.com.ico",
     "slug": "mesadoko-api",
-    "status": "down",
-    "uptime": "3.69%",
-    "uptimeDay": "3.69%",
-    "uptimeWeek": "3.69%",
-    "uptimeMonth": "3.69%",
-    "uptimeYear": "3.69%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "status": "up",
+    "uptime": "2.98%",
+    "uptimeDay": "2.98%",
+    "uptimeWeek": "2.98%",
+    "uptimeMonth": "2.98%",
+    "uptimeYear": "2.98%",
+    "time": 201,
+    "timeDay": 201,
+    "timeWeek": 201,
+    "timeMonth": 201,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-08-10": 100
+      "2024-08-10": 127
+    }
+  },
+  {
+    "name": "Mesadoko - Website",
+    "url": "https://mesadoko.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/mesadoko.com.ico",
+    "slug": "mesadoko-website",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 207,
+    "timeDay": 207,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2024-08-10": 131
     }
   }
 ]
