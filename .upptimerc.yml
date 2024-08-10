@@ -11,8 +11,6 @@ sites:
     url: https://lar.disruptiveinfotech.com/
   - name: Mesadoko - API
     url: https://apimesadoko.disruptiveinfotech.com/api/users
-  - name: Mesadoko - Website
-    url: https://mesadoko.com
     port: 80
     check: "tcp-ping"
     ipv6: true
