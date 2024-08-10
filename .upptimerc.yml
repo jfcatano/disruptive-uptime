@@ -1,18 +1,18 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: jfcatano # Your GitHub organization or username, where this repository lives
+repo: disruptive-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: Disruptive Website
+    url: https://www.disruptiveinfotech.com
+  - name: Liga Antioqueña de Rugby - API
+    url: https://apilarproject.disruptiveinfotech.com/
+  - name: Liga Antioqueña de Rugby - Website
+    url: https://lar.disruptiveinfotech.com/
+  - name: Mesadoko - API
+    url: https://apimesadoko.disruptiveinfotech.com/api/users
+  - name: Mesadoko - Website
+    url: https://mesadoko.com
     port: 80
     check: "tcp-ping"
     ipv6: true
@@ -20,17 +20,21 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: uptime.disrtuptiveinfotech.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**DisruptiveIT**, creando soluciones tecnológicas eficientes para todos los sistemas."
+  introMessage: Aquí puedes ver el estado de todos los servicios activos y administrados por **Disruptive Information Tecnologies**. ¿Deseas conocer más sobre nuestros servicios? [**¡Ingresa a nuestra página web!**](https://disruptiveinfotech.com)
   navbar:
-    - title: Status
+    - title: Servicios
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Página web
+      href: https://disruptiveinfotech.com
+    - title: LAR
+      href: https://lar.disruptiveinfotech.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
