@@ -1,7 +1,7 @@
 url: https://apimesadoko.disruptiveinfotech.com/api/categories
-status: up
-code: 200
-responseTime: 374
-lastUpdated: 2025-02-10T23:09:58.627Z
+status: down
+code: 500
+responseTime: 251
+lastUpdated: 2025-02-11T17:21:53.683Z
 startTime: 2024-08-10T02:57:04.001Z
 generator: Upptime <https://github.com/upptime/upptime>
